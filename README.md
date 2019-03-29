@@ -1,6 +1,6 @@
 # 프로그래밍 과제 03
 
-#### [실행결과](https://github.com/PKNU-IT-ALGORITHM2019/pa-03-Luiz4our/blob/master/result.png)
+#### ![실행결과](https://github.com/PKNU-IT-ALGORITHM2019/pa-03-Luiz4our/blob/master/result.png)
 
 1. 제출자: __201412839 최홍범__
 
